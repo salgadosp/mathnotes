@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "f8ce794edef91600",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3d0e9ae7c0ffacc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62b96b85b0de7da3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linearmente Independente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linearmente Independente"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15f42c839922b3ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb65f52aa36c29b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cf0bbffbf686b21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "62670d4f754d5b51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bfd18581311a5043",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "040c487da4eb8b5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b5b60335fcab7b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99cabe5935cd94aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linearmente Independente.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Linearmente Independente"
+            }
+          },
+          {
+            "id": "ec87e5e834d9f437",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Distribuição de Poisson.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Distribuição de Poisson"
+            }
+          },
+          {
+            "id": "fde52b90108b7703",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "20a37c4a2a0f7cad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resolução de Sistema Linear.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Resolução de Sistema Linear"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "62b96b85b0de7da3",
+  "lastOpenFiles": [
+    "Base.md",
+    "Espaço Vetorial.md",
+    "Comutatividade.md",
+    "Cálculo Numérico.md",
+    "Resolução de Sistema Linear.md",
+    "Álgebra Linear.md",
+    "Distribuição Binomial.md",
+    "Distribuições de Probabilidade.md",
+    "Distribuição Hipergeométrica.md",
+    "Distribuição de Poisson.md",
+    "Distribuição Normal.md",
+    "Distribuição Multinomial.md",
+    "Distribuição Binomial Negativa.md",
+    "Probabilidade.md",
+    "Elemento neutro.md",
+    "Teorema de Bayes.md",
+    "Equações Diferenciais Ordinárias.md",
+    "Equação Diferencial Linear.md",
+    "Equação Diferencial Separável.md",
+    "Equação Diferencial Autônoma.md",
+    "Método de Euler.md",
+    "Campo de Direções.md",
+    "Resolução de Equações Diferenciais Ordinárias.md",
+    "Polinômio Característico.md",
+    "Raíz de Função Real.md",
+    "Álgebra abstrata.md",
+    "Sem título 1",
+    "Sem título",
+    "Sem título.canvas"
+  ]
+}
